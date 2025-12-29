@@ -1,0 +1,39 @@
+{
+  "id": "/Exercise6_ToDoList/index.html",
+  "name": "Task Manager",
+  "short_name": "Tasks",
+  "description": "A simple task manager app",
+  "start_url": "/Exercise6_ToDoList/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+  {
+    "src": "screenshot/s2.png",
+    "sizes": "1280x720",
+    "type": "image/png",
+     "form_factor": "wide"
+
+  },
+   {
+    "src": "screenshots/s1.png",
+    "sizes": "360x800",
+    "type": "image/png"
+  }
+]
+
+}
