@@ -1,9 +1,9 @@
 {
-  "id": "/Exercise6_ToDoList/index.html",
+  "id": "/todo-pwa-app/index.html",
   "name": "Task Manager",
   "short_name": "Tasks",
   "description": "A simple task manager app",
-  "start_url": "/Exercise6_ToDoList/index.html",
+  "start_url": "/todo-pwa-app/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
